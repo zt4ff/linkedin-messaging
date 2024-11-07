@@ -1,0 +1,3 @@
+linkedin-api-client
+python-dotenv
+playwright
